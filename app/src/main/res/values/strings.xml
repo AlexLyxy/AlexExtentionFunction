@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alex Extention Function</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_alex_fragment">Hello Alex Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_alex_two_fragment">Hello Alex Two Fragment</string>
+</resources>
